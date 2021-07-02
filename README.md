@@ -1,2 +1,8 @@
 # SEVENASIX
-Este é um projeto em desenvolvimento e desenho. Somos um aplicativo de compras. O projeto atual ainda está em um estágio inicial de desenvolvimento. O estágio atual é principalmente para concluir o design da exibição da lista principal de produtos na página inicial e o design da exibição de detalhes do produto. Pretendemos fazer um aplicativo que seja o mais conciso, mas possa expressar totalmente as informações do produto. Adotamos um estilo de design de interface mais suave, bonito e elegante. Se você encontrar problemas durante o teste, entre em contato comigo. Os recursos do projeto ainda estão aumentando.
+This is a project under development and design.
+We are a shopping application.
+The current project is still in the early stage of development. The current stage is mainly to complete the design of the main list product display on the homepage and the design of the product detail display.
+We intend to make an application that is the most concise but can fully express product information.
+We have adopted a smoother and more beautiful and elegant interface design style.
+If you encounter problems during the test, please contact me.
+Project features are still increasing.
